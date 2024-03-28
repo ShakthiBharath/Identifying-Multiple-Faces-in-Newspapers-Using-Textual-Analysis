@@ -1,8 +1,5 @@
 # Identifying-Multiple-Faces-in-Newspapers-Using-Textual-Analysis
-OpenCV excels in face detection with its speed, versatility, and real-time compatibility. Integration with LSTM networks achieves 87% accuracy in text processing, surpassing previous techniques. Empirical testing confirms its efficacy in joint face identification, addressing accuracy challenges.
-
-# Identifying Multiple Faces in Newspapers Using Textual Anlaysis
-This project utilizes computer vision and natural language processing techniques to perform face recognition on images retrieved from news articles, and then summarizes the content of these articles using LSTM networks.
+OpenCV excels in face detection with its speed, versatility, and real-time compatibility. Integration with LSTM networks achieves 87% accuracy in text processing, surpassing previous techniques. Empirical testing confirms its efficacy in joint face identification, addressing accuracy challenges.This project utilizes computer vision and natural language processing techniques to perform face recognition on images retrieved from news articles, and then summarizes the content of these articles using LSTM networks.
 
 ## Table of Contents
 1. [Introduction](#introduction)
